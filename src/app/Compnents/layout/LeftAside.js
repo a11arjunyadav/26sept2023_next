@@ -15,6 +15,6 @@ export default function LeftAside() {
             <a href="/Food">
                 <button className="d-block btn a_back rounded-0 a_t">The Food</button>
             </a>
-        </aside>
+        </aside> 
   )
 }
