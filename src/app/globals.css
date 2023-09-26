@@ -10,8 +10,14 @@ header{
     color: #FFF4FF;
 }
 main{
-    min-height: 340px;
+    min-height: 500px;
     background-color: #FEFEFE;
+}
+.a_h{
+    height: 500px;
+}
+.a_he{
+  height: 300px;
 }
 footer{
     height: 65px;
@@ -20,6 +26,9 @@ footer{
 .a_back{
     background-color: #38B5E8;
 }
-.a_ms{
-    margin-right: 50px;
+.a_m{
+    margin-top: 60px;
+}
+.a_t{
+   color: white;
 }
