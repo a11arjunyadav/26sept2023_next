@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function RightAside() {
   return (
-    <aside className="col-3 a_tbdr p-3 a_h a_back a_t">
+    <aside className="col-3 p-3 a_h a_back a_t">
         <h4 className="d-flex justify-content-center a_m">What?</h4>
         <p>Chayna is a city on the island of cete.</p>
         <h4 className="d-flex justify-content-center a_m">Where?</h4>
